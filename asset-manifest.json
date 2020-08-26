@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-deploy/static/css/main.2ebd328a.chunk.css",
-    "main.js": "/portfolio-deploy/static/js/main.bf6077b8.chunk.js",
-    "main.js.map": "/portfolio-deploy/static/js/main.bf6077b8.chunk.js.map",
+    "main.css": "/portfolio-deploy/static/css/main.4e0f996c.chunk.css",
+    "main.js": "/portfolio-deploy/static/js/main.01017245.chunk.js",
+    "main.js.map": "/portfolio-deploy/static/js/main.01017245.chunk.js.map",
     "runtime-main.js": "/portfolio-deploy/static/js/runtime-main.090c7182.js",
     "runtime-main.js.map": "/portfolio-deploy/static/js/runtime-main.090c7182.js.map",
-    "static/js/2.7851d0ee.chunk.js": "/portfolio-deploy/static/js/2.7851d0ee.chunk.js",
-    "static/js/2.7851d0ee.chunk.js.map": "/portfolio-deploy/static/js/2.7851d0ee.chunk.js.map",
+    "static/js/2.93cbb332.chunk.js": "/portfolio-deploy/static/js/2.93cbb332.chunk.js",
+    "static/js/2.93cbb332.chunk.js.map": "/portfolio-deploy/static/js/2.93cbb332.chunk.js.map",
     "index.html": "/portfolio-deploy/index.html",
-    "precache-manifest.361665256acebdf3d15179b58782b876.js": "/portfolio-deploy/precache-manifest.361665256acebdf3d15179b58782b876.js",
+    "precache-manifest.6b4143f29335478cc52473750efc4d8b.js": "/portfolio-deploy/precache-manifest.6b4143f29335478cc52473750efc4d8b.js",
     "service-worker.js": "/portfolio-deploy/service-worker.js",
-    "static/css/main.2ebd328a.chunk.css.map": "/portfolio-deploy/static/css/main.2ebd328a.chunk.css.map",
-    "static/js/2.7851d0ee.chunk.js.LICENSE.txt": "/portfolio-deploy/static/js/2.7851d0ee.chunk.js.LICENSE.txt",
+    "static/css/main.4e0f996c.chunk.css.map": "/portfolio-deploy/static/css/main.4e0f996c.chunk.css.map",
+    "static/js/2.93cbb332.chunk.js.LICENSE.txt": "/portfolio-deploy/static/js/2.93cbb332.chunk.js.LICENSE.txt",
     "static/media/Azonix.otf": "/portfolio-deploy/static/media/Azonix.cdfe47b3.otf",
     "static/media/Sean_Spencer_Resume_2020.pdf": "/portfolio-deploy/static/media/Sean_Spencer_Resume_2020.cfa45ac3.pdf",
     "static/media/avatar.png": "/portfolio-deploy/static/media/avatar.8bc5fea2.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.090c7182.js",
-    "static/js/2.7851d0ee.chunk.js",
-    "static/css/main.2ebd328a.chunk.css",
-    "static/js/main.bf6077b8.chunk.js"
+    "static/js/2.93cbb332.chunk.js",
+    "static/css/main.4e0f996c.chunk.css",
+    "static/js/main.01017245.chunk.js"
   ]
 }
