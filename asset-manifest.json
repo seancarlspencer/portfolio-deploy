@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-deploy/static/css/main.1a43b465.chunk.css",
-    "main.js": "/portfolio-deploy/static/js/main.b184897d.chunk.js",
-    "main.js.map": "/portfolio-deploy/static/js/main.b184897d.chunk.js.map",
+    "main.js": "/portfolio-deploy/static/js/main.3d75bb0f.chunk.js",
+    "main.js.map": "/portfolio-deploy/static/js/main.3d75bb0f.chunk.js.map",
     "runtime-main.js": "/portfolio-deploy/static/js/runtime-main.090c7182.js",
     "runtime-main.js.map": "/portfolio-deploy/static/js/runtime-main.090c7182.js.map",
-    "static/js/2.fcd2409e.chunk.js": "/portfolio-deploy/static/js/2.fcd2409e.chunk.js",
-    "static/js/2.fcd2409e.chunk.js.map": "/portfolio-deploy/static/js/2.fcd2409e.chunk.js.map",
+    "static/js/2.5d05f4b7.chunk.js": "/portfolio-deploy/static/js/2.5d05f4b7.chunk.js",
+    "static/js/2.5d05f4b7.chunk.js.map": "/portfolio-deploy/static/js/2.5d05f4b7.chunk.js.map",
     "index.html": "/portfolio-deploy/index.html",
-    "precache-manifest.b194d67551ffa777030a4f63aeb6f674.js": "/portfolio-deploy/precache-manifest.b194d67551ffa777030a4f63aeb6f674.js",
+    "precache-manifest.cfe02c4aa9860c65143ec0402b16b38d.js": "/portfolio-deploy/precache-manifest.cfe02c4aa9860c65143ec0402b16b38d.js",
     "service-worker.js": "/portfolio-deploy/service-worker.js",
     "static/css/main.1a43b465.chunk.css.map": "/portfolio-deploy/static/css/main.1a43b465.chunk.css.map",
-    "static/js/2.fcd2409e.chunk.js.LICENSE.txt": "/portfolio-deploy/static/js/2.fcd2409e.chunk.js.LICENSE.txt",
+    "static/js/2.5d05f4b7.chunk.js.LICENSE.txt": "/portfolio-deploy/static/js/2.5d05f4b7.chunk.js.LICENSE.txt",
     "static/media/Azonix.otf": "/portfolio-deploy/static/media/Azonix.cdfe47b3.otf",
     "static/media/Sean_Spencer_Resume_2020.pdf": "/portfolio-deploy/static/media/Sean_Spencer_Resume_2020.cfa45ac3.pdf",
     "static/media/avatar.png": "/portfolio-deploy/static/media/avatar.8bc5fea2.png",
@@ -20,12 +20,14 @@
     "static/media/logo.svg": "/portfolio-deploy/static/media/logo.5d5d9eef.svg",
     "static/media/logo9.png": "/portfolio-deploy/static/media/logo9.46d1b11f.png",
     "static/media/readmore.png": "/portfolio-deploy/static/media/readmore.35660fe2.png",
+    "static/media/todolists.png": "/portfolio-deploy/static/media/todolists.a4065e0a.png",
+    "static/media/voxelcars.png": "/portfolio-deploy/static/media/voxelcars.b2859cdb.png",
     "static/media/wireframer.png": "/portfolio-deploy/static/media/wireframer.9eccd1c6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.090c7182.js",
-    "static/js/2.fcd2409e.chunk.js",
+    "static/js/2.5d05f4b7.chunk.js",
     "static/css/main.1a43b465.chunk.css",
-    "static/js/main.b184897d.chunk.js"
+    "static/js/main.3d75bb0f.chunk.js"
   ]
 }
