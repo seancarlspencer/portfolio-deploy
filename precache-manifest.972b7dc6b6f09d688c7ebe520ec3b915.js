@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16c9dc962f66997a9784da52bb3250e5",
+    "revision": "066f171fa89dbe160a84644505e9919b",
     "url": "/portfolio-deploy/index.html"
   },
   {
-    "revision": "ecc98bf6aef63be80422",
-    "url": "/portfolio-deploy/static/css/main.fa4f2a8a.chunk.css"
+    "revision": "59a2fb24433db2f077e4",
+    "url": "/portfolio-deploy/static/css/main.b3380319.chunk.css"
   },
   {
     "revision": "54f0add2733272bd1ab6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-deploy/static/js/2.4da10994.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ecc98bf6aef63be80422",
-    "url": "/portfolio-deploy/static/js/main.20de1f9d.chunk.js"
+    "revision": "59a2fb24433db2f077e4",
+    "url": "/portfolio-deploy/static/js/main.68cc1ad5.chunk.js"
   },
   {
     "revision": "80c73cd44813848130b2",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-deploy/static/media/Azonix.cdfe47b3.otf"
   },
   {
-    "revision": "cfa45ac30b4ad8d39de091ac84f66b6e",
-    "url": "/portfolio-deploy/static/media/Sean_Spencer_Resume_2020.cfa45ac3.pdf"
+    "revision": "0ca8f4753c2d4daee87e948a35e6ed2c",
+    "url": "/portfolio-deploy/static/media/Sean_Spencer_Resume.0ca8f475.pdf"
   },
   {
     "revision": "8bc5fea258735ac834e6475559cdbd45",
