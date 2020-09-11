@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio-deploy/static/css/main.4cd3be8e.chunk.css",
-    "main.js": "/portfolio-deploy/static/js/main.30a55947.chunk.js",
-    "main.js.map": "/portfolio-deploy/static/js/main.30a55947.chunk.js.map",
+    "main.js": "/portfolio-deploy/static/js/main.8733e0bb.chunk.js",
+    "main.js.map": "/portfolio-deploy/static/js/main.8733e0bb.chunk.js.map",
     "runtime-main.js": "/portfolio-deploy/static/js/runtime-main.090c7182.js",
     "runtime-main.js.map": "/portfolio-deploy/static/js/runtime-main.090c7182.js.map",
-    "static/js/2.259371fb.chunk.js": "/portfolio-deploy/static/js/2.259371fb.chunk.js",
-    "static/js/2.259371fb.chunk.js.map": "/portfolio-deploy/static/js/2.259371fb.chunk.js.map",
+    "static/js/2.6f2529a9.chunk.js": "/portfolio-deploy/static/js/2.6f2529a9.chunk.js",
+    "static/js/2.6f2529a9.chunk.js.map": "/portfolio-deploy/static/js/2.6f2529a9.chunk.js.map",
     "index.html": "/portfolio-deploy/index.html",
-    "precache-manifest.7199d0c1f92b2bde9d0a94ceccd3f75c.js": "/portfolio-deploy/precache-manifest.7199d0c1f92b2bde9d0a94ceccd3f75c.js",
+    "precache-manifest.cc3148df276341728f7531e59b74ec75.js": "/portfolio-deploy/precache-manifest.cc3148df276341728f7531e59b74ec75.js",
     "service-worker.js": "/portfolio-deploy/service-worker.js",
     "static/css/main.4cd3be8e.chunk.css.map": "/portfolio-deploy/static/css/main.4cd3be8e.chunk.css.map",
-    "static/js/2.259371fb.chunk.js.LICENSE.txt": "/portfolio-deploy/static/js/2.259371fb.chunk.js.LICENSE.txt",
+    "static/js/2.6f2529a9.chunk.js.LICENSE.txt": "/portfolio-deploy/static/js/2.6f2529a9.chunk.js.LICENSE.txt",
     "static/media/Azonix.otf": "/portfolio-deploy/static/media/Azonix.cdfe47b3.otf",
-    "static/media/Sean_Spencer_Resume.pdf": "/portfolio-deploy/static/media/Sean_Spencer_Resume.0ca8f475.pdf",
+    "static/media/Sean_Spencer_Resume_ver2.pdf": "/portfolio-deploy/static/media/Sean_Spencer_Resume_ver2.30905cde.pdf",
     "static/media/avatar.png": "/portfolio-deploy/static/media/avatar.8bc5fea2.png",
     "static/media/c4me.png": "/portfolio-deploy/static/media/c4me.457c972f.png",
     "static/media/main.scss": "/portfolio-deploy/static/media/glowing-background.ea9085a8.jpg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.090c7182.js",
-    "static/js/2.259371fb.chunk.js",
+    "static/js/2.6f2529a9.chunk.js",
     "static/css/main.4cd3be8e.chunk.css",
-    "static/js/main.30a55947.chunk.js"
+    "static/js/main.8733e0bb.chunk.js"
   ]
 }
